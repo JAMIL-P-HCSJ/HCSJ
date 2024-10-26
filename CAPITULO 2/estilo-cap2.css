@@ -1,0 +1,132 @@
+body {
+    background-color: #a361b8;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #5d0e6d;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.práctica-previa h1 {
+    color: #dadde6;
+    margin: 10px;
+}
+
+.práctica-previa a {
+    margin: 10px;
+    color: rgb(51, 2, 53);
+    font-weight: 1000;
+}
+
+.práctica-previa a:hover {
+    color: #572c8f;
+}
+
+.contenedor {
+    text-align: justify;
+    line-height: 1.5;
+}
+
+.contenedor h1{
+    color: #dadde6;
+    margin: 10px;
+}
+
+img {
+    border: 5px solid #610a47;
+}
+
+h3 {
+    color: rgb(185, 123, 197);
+}
+
+h2 {
+    color: rgb(221, 196, 165);
+    margin: 10px;
+}
+
+p {
+    color: white;
+    margin: 10px;
+}
+
+.caja-presentación-2 {
+    overflow: auto;
+    margin: 10px;
+    display: flex;
+    justify-content: center; /* Centrar horizontalmente */
+    align-items: center; /* Centrar verticalmente */
+    height: 100vh; /* Ocupa toda la altura de la pantalla */
+    width: 100%; /* Ocupa todo el ancho de la pantalla */
+}
+
+.boton-inicio {
+    display: inline-block;
+    align-content: center;
+    background-color: #560766;
+    padding: 20px;
+}
+
+.boton-siguiente {
+    display: inline-block;
+    align-content: center;
+    background-color: #560766;
+    padding: 20px;
+}
+
+.boton-anterior{
+    display: inline-block;
+    align-content: center;
+    background-color: #560766;
+    padding: 20px;
+}
+.botones {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.actividades a {
+    margin: 10px;
+    color: rgb(51, 2, 53);
+    font-weight: 1000;
+}
+
+.actividades a:hover {
+    color: #572c8f;
+}
+
+.actividades h1 {
+    color: #dadde6;
+    margin: 10px;
+}
+
+.evaluación a {
+    margin: 10px;
+    color: rgb(51, 2, 53);
+    font-weight: 1000;
+}
+
+.evaluación a:hover {
+    color: #572c8f;
+}
+
+.evaluación h1 {
+    color: #dadde6;
+    margin: 10px;
+}
+
+.botones a button {
+    color: #572c8f;
+    font-weight: 1000;
+}
+
+.botones a:hover button {
+    color: #824dc7;
+    font-weight: 1000;
+}
